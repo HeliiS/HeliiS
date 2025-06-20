@@ -27,5 +27,5 @@ Here are a few repos that demonstrate my skills:
 ---
 
 ## 📬 Let's Connect!
-- 💼 [LinkedIn](linkedin.com/in/heli-shah-9843151b2)
+- 💼 [LinkedIn](https://linkedin.com/in/heli-shah-9843151b2)
 
