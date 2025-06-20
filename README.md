@@ -14,10 +14,10 @@
 ## 💻 🔥 Highlighted Projects
 Here are a few repos that demonstrate my skills:
 
-### 🛡️ [kql-security-log-insights](https://github.com/HeliiS/kql-security-log-insights)
+### 🛡️ [kql-security-log-insights](https://github.com/HeliiS/Heli-s-Cybersecurity-Home-Lab)
 🔍 Sample KQL queries for analyzing security event logs, with visualizations and practice datasets.
 
-### 🎯 [kql-mitre-attack-detections](https://github.com/HeliiS/kql-mitre-attack-detections)
+### 🎯 [kql-mitre-attack-detections](https://github.com/HeliiS/Heli-s-Cybersecurity-Home-Lab)
 ⚡ MITRE ATT&CK detection rules in KQL using realistic mock security data.
 
 ### 🐍 [Python-basic-practice](https://github.com/HeliiS/Python-basic-practice)
